@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.uswitchforbusiness.com/business-energy/compare-business-energy-broker");
+header("Location: https://energy-comparison.wixsite.com/energy");
 die();
 ?>
